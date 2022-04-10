@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andriy-Kozlovsky
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning React JS.
 
 
 <!---
