@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andriy-Kozlovsky
-- ❤️ I'm in love with React JS. 
+- 💻 I'm currently working with React JS. 
 - 🌱 I'm currently learning Express JS.
 
 <!---
