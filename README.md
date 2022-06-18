@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andriy-dev
+- 👋 Hi, I’m Andriy. 
 - 💻 I'm currently working with React JS. 
 - 🌱 I'm currently learning Express JS.
 
