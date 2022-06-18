@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andriy-Kozlovsky
+- 👋 Hi, I’m @andriy-dev
 - 💻 I'm currently working with React JS. 
 - 🌱 I'm currently learning Express JS.
 
