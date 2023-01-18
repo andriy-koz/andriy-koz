@@ -3,7 +3,7 @@
 - 🌱 I'm currently doing the Harvard's CS50x course.  
 
 - 🥇 I'm passionate about using technology for solving real world problems. 
-- 🐱 + 🐶 Specially open to colaborate in solutions for helping/rescuing animals. 
+- 🐱 + 🐶 Specially open to colaborate in projects for helping/rescuing animals. 
 - 💛 + 💙 JavaScript and Python are my goto languages.
 
 
