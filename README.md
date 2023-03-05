@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andriy
-- 💻 TypeScript | React & Next.js | TailwindCSS | Node.js | SQL
-- 💛 MERN Stack
+- 💻 TypeScript | React & Next.js | Node.js | SQL
 - CS50x | FrontEnd Mentor | freeCodeCamp | Full Stack bootcamp (Numen Academy) 
 
 <!---
