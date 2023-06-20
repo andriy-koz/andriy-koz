@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andriy
 - 💻 TypeScript | React & Next.js | Node.js | SQL
-- CS50x | FrontEnd Mentor | freeCodeCamp | Full Stack bootcamp (Numen Academy) 
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
