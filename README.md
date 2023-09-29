@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andriy
-- 💻 TypeScript | React & Next.js | Node.js
-- 🐘 PHP | MySQL
+- .NET Core + NextJS
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
