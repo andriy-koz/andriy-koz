@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Andriy
-- .NET Core + NextJS
+💜 C# .NET (WPF, MVC, Blazor, MAUI)
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
