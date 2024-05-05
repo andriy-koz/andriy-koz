@@ -1,4 +1,4 @@
-💜 C# .NET (API, MVC, WPF, MAUI)
+💜 C# .NET (API, MVC, WPF, MAUI, Blazor)
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
