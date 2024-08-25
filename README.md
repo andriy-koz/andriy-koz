@@ -1,4 +1,9 @@
-💜 C# .NET (API, MVC, WPF, MAUI, Blazor)
+Stacks i used:
+- MERN
+- .NET (WPF, Blazor)
+- Laravel + VueJS
+
+Actually learning Golang =)
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
