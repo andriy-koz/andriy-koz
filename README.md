@@ -1,6 +1,8 @@
-Process Engineer and Programmer
-- .NET (WPF, Blazor)
-- Laravel + VueJS
+Process Engineering | Automation | AI Agents integration
+
+- N8N, Make & Zapier
+- Node.JS
+- .NET Core (C#)
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
