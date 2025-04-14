@@ -1,9 +1,6 @@
-Stacks i used:
-- MERN
+Process Engineer and Programmer
 - .NET (WPF, Blazor)
 - Laravel + VueJS
-
-Actually learning $${\color{lightblue}Golang}$$ =)
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
