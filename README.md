@@ -3,6 +3,7 @@ Process Engineering | Automation | AI Agents | Full Stack Dev
 +4 years experience as a Process Engineer
 
 Typescript | C#
+
 N8N | NodeJS/Bun | .NET Core | React
 
 <!---
