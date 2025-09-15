@@ -1,10 +1,10 @@
-Process Engineering | Automation | AI Agents integration
+Process Engineering | Automation | AI Agents integration | Full Stack Dev
 
-+4 years experience as a Process Engineer.
++4 years experience as a Process Engineer
 
 - N8N, Make & Zapier
-- Node.JS
-- .NET Core (C#)
+- Typescript
+- C# 
 
 <!---
 Andriy-Kozlovsky/Andriy-Kozlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
